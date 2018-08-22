@@ -1,0 +1,12 @@
+{
+  "name": "comfyboilerplate",
+  "version": "1.0.0",
+  "description": "A simple boilerplate to easily get started with a nodejs static file server.",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "node-static": "0.6.x"
+  }
+}
